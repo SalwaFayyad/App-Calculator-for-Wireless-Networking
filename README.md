@@ -1,6 +1,6 @@
 # Online Communication System Calculator
 
-This repository hosts an online calculator for various communication system parameters. Built with React, it allows users to input system parameters to compute the necessary values.
+This repository hosts an app calculator for various communication system parameters. It allows users to input system parameters to compute the necessary values.
 
 ## Features
 
